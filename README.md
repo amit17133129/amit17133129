@@ -179,6 +179,8 @@ but also gives you various benefits which can improve the quality of your life. 
 
 [Simple Linear Regression](https://www.linkedin.com/pulse/day-4-machine-learning-amit-sharma/)
 
+[COVID 19 image segmentation on chest Xray Using MASK RCNN](https://www.linkedin.com/posts/amit-sharma-35439016a_task6-worldrecordholder-mlops-activity-6689080600785252352-GMg8/)
+
 </td><td valign="top" width="50%">
 
 ### Cloud
