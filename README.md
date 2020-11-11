@@ -140,6 +140,7 @@ but also gives you various benefits which can improve the quality of your life. 
 
 [Using Terraform and Ansible creating K8S Cluster On AWS and launching Prometheus and Grafana in that K8S Cluster.](https://www.linkedin.com/feed/update/urn:li:activity:6702127648476413952/)
 
+[Deploying Web Server & HAProxy load Balancer on AWS using Ansible](https://www.linkedin.com/pulse/ansible-task-3-creating-load-balancer-aws-using-amit-sharma/)
 
 </td><td valign="top" width="25%"> 
  
@@ -157,6 +158,11 @@ but also gives you various benefits which can improve the quality of your life. 
 
 ### Machine Learning
 <!-- blog starts -->
+[MLOPS]
+[Covid Symptoms Tracker Project](https://www.linkedin.com/posts/amit-sharma-35439016a_mlops-machinelearning-ai-activity-6723638308745945088-xHex/)
+ 
+[Covid Symptoms Tracker](https://github.com/users/amit17133129/projects/4/)
+ 
 [Machine-Learning-Prediction-Using-Different-Algorithms-in-linear-Classification](https://github.com/amit17133129/Machine-Learning-Prediction-Using-Different-Algorithms-in-linear-Classification/)
 [COVID-19-image-segmentation-on-chest-Xray-Using-MASK-RCNN.](https://www.linkedin.com/pulse/covid-19-image-segmentation-chest-xray-using-mask-rcnn-amit-sharma/)
 
@@ -184,12 +190,6 @@ but also gives you various benefits which can improve the quality of your life. 
 [Using-EFS-instead-of-EBS-service-on-the-AWS-as-Create-launch-Application-](https://www.linkedin.com/feed/update/urn:li:activity:6720384729843146752/)
 
 [Launching EC2 Instance on AWS Using Ansible](https://www.linkedin.com/feed/update/urn:li:activity:6720384622833860608/) 
-
-[Creating a Chat Application Using Flutter farmwork](https://github.com/hackcoderr/hackcoderr/blob/main/assets/work%20in%20process.jpg) 
-
-[Launching Docker using AWS and Run all Cmd Using Python](https://github.com/hackcoderr/hackcoderr/blob/main/assets/work%20in%20process.jpg) 
-
-[Making a Technical Assistant using Python](https://github.com/hackcoderr/hackcoderr/blob/main/assets/work%20in%20process.jpg) 
 
 [Deploying Web Server & HAProxy load Balancer on AWS using Ansible](https://github.com/hackcoderr/hackcoderr/blob/main/assets/work%20in%20process.jpg) 
 
