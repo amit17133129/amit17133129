@@ -148,14 +148,14 @@ but also gives you various benefits which can improve the quality of your life. 
 
 
 
-</td><td valign="top" width="34%"> 
+</td><td valign="top" width="25%"> 
  
 ### BigData
 <!-- recent_releases starts -->
  [Creating hadoop cluser and making datanode storage dynamic through LVM](https://www.linkedin.com/pulse/hadoop-static-partition-lvm-amit-sharma/)
 
 
-</td><td valign="top" width="34%"> 
+</td><td valign="top" width="25%"> 
  
 
 ### Machine Learning
@@ -174,7 +174,7 @@ but also gives you various benefits which can improve the quality of your life. 
 
 [Simple Linear Regression](https://www.linkedin.com/pulse/day-4-machine-learning-amit-sharma/) - 2020-07-12
 
-</td><td valign="top" width="33%">
+</td><td valign="top" width="25%">
 
 ### Cloud
 <!-- tils starts -->
