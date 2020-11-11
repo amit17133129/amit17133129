@@ -6,7 +6,7 @@
 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="414" height="320" />
   
-  <img align="left" alt="GIF" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgifer.com%2Fen%2FBE3p&psig=AOvVaw12OwcaTDfWOnJ_lS9zkOEG&ust=1605171393206000&source=images&cd=vfe&ved=2ahUKEwiU9erGj_rsAhW65jgGHRuyC-0QjRx6BAgAEAc" width="390" height="320" />
+  <img align="left" alt="GIF" src="https://media.giphy.com/media/hLBiOLs1Xri03yRIH3/giphy.gif" width="390" height="320" />
   
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
