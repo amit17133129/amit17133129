@@ -155,25 +155,25 @@ but also gives you various benefits which can improve the quality of your life. 
  [Creating hadoop cluser and making datanode storage dynamic through LVM](https://www.linkedin.com/pulse/hadoop-static-partition-lvm-amit-sharma/)
 
 
-</td><td valign="top" width="25%"> 
+</td><td valign="top" width="10%"> 
  
 
 ### Machine Learning
 <!-- blog starts -->
-[Machine-Learning-Prediction-Using-Different-Algorithms-in-linear-Classification] (https://github.com/amit17133129/Machine-Learning-Prediction-Using-Different-Algorithms-in-linear-Classification/)
-[COVID-19-image-segmentation-on-chest-Xray-Using-MASK-RCNN.](https://www.linkedin.com/pulse/covid-19-image-segmentation-chest-xray-using-mask-rcnn-amit-sharma/) - 2020-09-02
+[Machine-Learning-Prediction-Using-Different-Algorithms-in-linear-Classification](https://github.com/amit17133129/Machine-Learning-Prediction-Using-Different-Algorithms-in-linear-Classification/)
+[COVID-19-image-segmentation-on-chest-Xray-Using-MASK-RCNN.](https://www.linkedin.com/pulse/covid-19-image-segmentation-chest-xray-using-mask-rcnn-amit-sharma/)
 
-[Convolutional Neural Network ](https://www.linkedin.com/pulse/mlops-day-24-convolutional-neural-network-amit-sharma/) - 2020-08-28
+[Convolutional Neural Network ](https://www.linkedin.com/pulse/mlops-day-24-convolutional-neural-network-amit-sharma/)
 
-[Binary Classification](https://www.linkedin.com/pulse/mlops-day-20-binary-classification-amit-sharma/) - 2020-08-19
+[Binary Classification](https://www.linkedin.com/pulse/mlops-day-20-binary-classification-amit-sharma/)
 
-[Gradient Descent](https://www.linkedin.com/pulse/mlops-day-11-gradient-descent-amit-sharma/) - 2020-08-17
+[Gradient Descent](https://www.linkedin.com/pulse/mlops-day-11-gradient-descent-amit-sharma/)
 
-[Features Selection on Multiple Linear Regression](https://www.linkedin.com/pulse/mlops-day-7-features-selection-multiple-linear-amit-sharma/) - 2020-07-15
+[Features Selection on Multiple Linear Regression](https://www.linkedin.com/pulse/mlops-day-7-features-selection-multiple-linear-amit-sharma/)
 
-[Computer Vision](https://www.linkedin.com/pulse/day-4-computer-vision-amit-sharma/) - 2020-07-14
+[Computer Vision](https://www.linkedin.com/pulse/day-4-computer-vision-amit-sharma/)
 
-[Simple Linear Regression](https://www.linkedin.com/pulse/day-4-machine-learning-amit-sharma/) - 2020-07-12
+[Simple Linear Regression](https://www.linkedin.com/pulse/day-4-machine-learning-amit-sharma/)
 
 </td><td valign="top" width="25%">
 
