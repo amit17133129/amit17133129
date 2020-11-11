@@ -132,18 +132,18 @@ but also gives you various benefits which can improve the quality of your life. 
 
 ### DEVOPS
 <!-- recent_releases starts -->
- [Creating-High-Availability-Architecture-with-AWS-CLI-CloudFront-S3-EBS](https://www.linkedin.com/pulse/creating-high-availability-architecture-aws-cli-s3-ebs-amit-sharma
+ [Creating-High-Availability-Architecture-with-AWS-CLI-CloudFront-S3-EBS](https://www.linkedin.com/pulse/creating-high-availability-architecture-aws-cli-s3-ebs-amit-sharma/)
 
 
-[Deploy the word-press application on K8S and AWS using Terraform](https://www.linkedin.com/pulse/hybrid-multi-cloud-task-6-deploy-word-press-k8s-aws-using-amit-sharma
+[Deploy the word-press application on K8S and AWS using Terraform](https://www.linkedin.com/pulse/hybrid-multi-cloud-task-6-deploy-word-press-k8s-aws-using-amit-sharma/)
 
-[Creating a Hadoop Cluster at Top of AWS & Checking the Existence of Replica by the crashing DataNode ](https://www.linkedin.com/pulse/setting-up-hadoop-cluster-top-aws-checking-existence-replica-kumar) - 2020-10-09
+[CREATING LOAD BALANCER ON AWS USING ANSIBLE ](https://www.linkedin.com/posts/amit-sharma-35439016a_ansible-task3-creatingabrloadabrbalancerabronabrawsabrusingabransible-activity-6705502102753542144-LbM2/)
 
-[Creating a Animation Application Using Flutter](https://www.linkedin.com/posts/hackcoderr_righteducation-rightmentor-vimaldaga-activity-6719325435383177217-rmF2) - 2020-10-07
+[Creating a Animation Application Using Flutter](https://www.linkedin.com/pulse/hadoop-static-partition-lvm-amit-sharma/) - 2020-10-07
 
-[A Review and Case Studies on AWS](https://www.linkedin.com/pulse/review-case-study-amazon-web-services-sachin-kumar) - 2020-09-22
+[LAUNCHING EC2 INSTANCE AND CONFIGURING WEBSERVER IN MANAGED NODE BY DYNAMIC INVENTORY USING ANSIBLE ON AWS ​](https://www.linkedin.com/posts/amit-sharma-35439016a_ansible-task2-devopsengineer-activity-6702545496298266624-c26H/) - 2020-09-22
 
-[A Review and Case Studies on BigData](https://www.linkedin.com/pulse/review-case-studies-bigdata-sachin-kumar) - 2020-09-16
+[DOCKER 🐳 INTERGRATION WITH ANSIBLE (A)](https://www.linkedin.com/pulse/docker-intergration-ansible-task-1-amit-sharma/) - 2020-09-16
 
 
 
@@ -171,16 +171,16 @@ but also gives you various benefits which can improve the quality of your life. 
 
 </td><td valign="top" width="33%">
 
-### On Going
+### Cloud
 <!-- tils starts -->
 
 
 
-[Creating a Music and Video Player using Flutter farmwork](https://github.com/hackcoderr/hackcoderr/blob/main/assets/work%20in%20process.jpg) 
+[Deploy the word-press application on K8S and AWS using Terraform](https://www.linkedin.com/pulse/hybrid-multi-cloud-task-6-deploy-word-press-k8s-aws-using-amit-sharma/) 
 
-[Ansible Installation on AWS RHEL 8 & Docker Integration on Ansible](https://github.com/hackcoderr/hackcoderr/blob/main/assets/work%20in%20process.jpg)
+[Using-EFS-instead-of-EBS-service-on-the-AWS-as-Create-launch-Application-](https://www.linkedin.com/feed/update/urn:li:activity:6720384729843146752/)
 
-[Launching EC2 Instance on AWS Using Ansible](https://github.com/hackcoderr/hackcoderr/blob/main/assets/work%20in%20process.jpg) 
+[Launching EC2 Instance on AWS Using Ansible](https://www.linkedin.com/feed/update/urn:li:activity:6720384622833860608/) 
 
 [Creating a Chat Application Using Flutter farmwork](https://github.com/hackcoderr/hackcoderr/blob/main/assets/work%20in%20process.jpg) 
 
