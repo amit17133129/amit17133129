@@ -157,8 +157,9 @@ but also gives you various benefits which can improve the quality of your life. 
   
  ### MLOPS
 <!-- recent_releases starts -->
- [Covid Symptoms Tracker](https://www.linkedin.com/posts/amit-sharma-35439016a_mlops-machinelearning-ai-activity-6723638308745945088-xHex/)
-</td><td valign="top" width="30%"> 
+ [Covid Symptoms Tracker Project](https://www.linkedin.com/posts/amit-sharma-35439016a_mlops-machinelearning-ai-activity-6723638308745945088-xHex/)
+ [Covid Symptoms Tracker](https://github.com/users/amit17133129/projects/4/)
+</td><td valign="top" width="5%"> 
 
 ### Machine Learning
 <!-- blog starts -->
