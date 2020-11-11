@@ -77,7 +77,7 @@ As we all know that under <b>engineering</b>, technical skills always provide un
  [![Pycharm](https://img.shields.io/badge/IDE-PyCharm-yellow?style=flat-square&logo=JetBrains)](https://www.jetbrains.com/pycharm/)
  [![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=Flask&logoColor=ffffff)](https://flask.palletsprojects.com/)
  [![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=Kubernetes&logoColor=ffffff)](https://kubernetes.io/)
-
+ [![Ansible](https://img.shields.io/badge/-ansible-326CE5?style=flat-square&logo=ansible&logoColor=ffffff)](https://ansible.io/)
 
 
 
