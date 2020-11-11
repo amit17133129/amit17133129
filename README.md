@@ -80,11 +80,6 @@ As we all know that under <b>engineering</b>, technical skills always provide un
  [![Ansible](https://img.shields.io/badge/-ansible-326CE5?style=flat-square&logo=ansible&logoColor=000000)](https://ansible.io/)
 
 
-
-
-
-
-
  <!--My Hobbies-->
  
  
@@ -99,8 +94,6 @@ but also gives you various benefits which can improve the quality of your life. 
 
 
 ##
-
-
 
 
 
@@ -185,8 +178,6 @@ but also gives you various benefits which can improve the quality of your life. 
 
 ### Cloud
 <!-- tils starts -->
-
-
 
 [Deploy the word-press application on K8S and AWS using Terraform](https://www.linkedin.com/pulse/hybrid-multi-cloud-task-6-deploy-word-press-k8s-aws-using-amit-sharma/) 
 
