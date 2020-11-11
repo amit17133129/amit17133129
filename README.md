@@ -153,10 +153,12 @@ but also gives you various benefits which can improve the quality of your life. 
 ### BigData
 <!-- recent_releases starts -->
  [Creating hadoop cluser and making datanode storage dynamic through LVM](https://www.linkedin.com/pulse/hadoop-static-partition-lvm-amit-sharma/)
-
-
-</td><td valign="top" width="10%"> 
- 
+</td><td valign="top" width="30%"> 
+  
+ ### MLOPS
+<!-- recent_releases starts -->
+ [Covid Symptoms Tracker](https://www.linkedin.com/posts/amit-sharma-35439016a_mlops-machinelearning-ai-activity-6723638308745945088-xHex/)
+</td><td valign="top" width="30%"> 
 
 ### Machine Learning
 <!-- blog starts -->
