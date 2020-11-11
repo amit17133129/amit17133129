@@ -150,7 +150,12 @@ but also gives you various benefits which can improve the quality of your life. 
 
 </td><td valign="top" width="34%"> 
  
+### BigData
+<!-- recent_releases starts -->
+ [Creating hadoop cluser and making datanode storage dynamic through LVM](https://www.linkedin.com/pulse/hadoop-static-partition-lvm-amit-sharma/)
 
+
+</td><td valign="top" width="34%"> 
  
 
 ### Machine Learning
