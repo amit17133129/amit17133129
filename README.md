@@ -145,14 +145,12 @@ but also gives you various benefits which can improve the quality of your life. 
 <b>
 <table><tr><td valign="top" width="33%">
 
-### Recent Releases
+### DEVOPS
 <!-- recent_releases starts -->
- [Contributing the Desired amount of storage of Datanode to the Hadoop Cluster](https://www.linkedin.com/pulse/creating-high-availability-architecture-aws-cli-s3-ebs-amit-sharma
+ [Creating-High-Availability-Architecture-with-AWS-CLI-CloudFront-S3-EBS](https://www.linkedin.com/pulse/creating-high-availability-architecture-aws-cli-s3-ebs-amit-sharma
 
-[A Review and Case Study at Machine Learning](https://www.linkedin.com/posts/hackcoderr_a-review-and-case-study-at-machine-learning-activity-6723879115029647360-VH9X) - 2020-10-19
 
-[Lauching an Instance and attaching a EBS using AWS CLI](https://www.linkedin.com/posts/hackcoderr_launching-an-instance-and-attaching-with-activity-6722476917137793024-I62A) - 2020-10-15
-
+[Deploy the word-press application on K8S and AWS using Terraform](https://www.linkedin.com/pulse/hybrid-multi-cloud-task-6-deploy-word-press-k8s-aws-using-amit-sharma
 
 [Creating a Hadoop Cluster at Top of AWS & Checking the Existence of Replica by the crashing DataNode ](https://www.linkedin.com/pulse/setting-up-hadoop-cluster-top-aws-checking-existence-replica-kumar) - 2020-10-09
 
@@ -170,21 +168,21 @@ but also gives you various benefits which can improve the quality of your life. 
 
  
 
-### On My Blog
+### Machine Learning
 <!-- blog starts -->
-[Deployment of WordPress on Kubernetes and Integrating it with AWS RDS](https://www.linkedin.com/pulse/deployment-wordpress-kubernetes-integrating-aws-rds-sachin-kumar/) - 2020-09-02
+[COVID-19-image-segmentation-on-chest-Xray-Using-MASK-RCNN.](https://www.linkedin.com/pulse/covid-19-image-segmentation-chest-xray-using-mask-rcnn-amit-sharma/) - 2020-09-02
 
-[Launching the WordPress on Google Cloud Platform using the Concept of Kubernetes](https://www.linkedin.com/pulse/launching-wordpress-google-cloud-platform-using-concept-sachin-kumar/) - 2020-08-28
+[Convolutional Neural Network ](https://www.linkedin.com/pulse/mlops-day-24-convolutional-neural-network-amit-sharma/) - 2020-08-28
 
-[Deploy Infrastructure(website) On AWS and integrating with EFS(storage) using Terraform](https://www.linkedin.com/pulse/deploy-infrastructurewebsite-aws-integrating-efsstorage-sachin-kumar/) - 2020-08-19
+[Binary Classification](https://www.linkedin.com/pulse/mlops-day-20-binary-classification-amit-sharma/) - 2020-08-19
 
-[Launching Webserver on AWS cloud using Terraform](https://www.linkedin.com/pulse/launching-webserver-aws-cloud-using-terraform-sachin-kumar/) - 2020-08-17
+[Gradient Descent](https://www.linkedin.com/pulse/mlops-day-11-gradient-descent-amit-sharma/) - 2020-08-17
 
-[Create AWS VPC with Public Subnet, Private Subnet, Internet Gateway and NAT Gateway then deploy WordPress and Database Server](https://www.linkedin.com/pulse/create-aws-vpc-public-subnet-private-internet-gateway-sachin-kumar/) - 2020-07-15
+[Features Selection on Multiple Linear Regression](https://www.linkedin.com/pulse/mlops-day-7-features-selection-multiple-linear-amit-sharma/) - 2020-07-15
 
-[Create VPC and Deploy Public WordPress Server with Private Database Server using Terraform.](https://www.linkedin.com/pulse/create-vpc-deploy-public-wordpress-server-private-database-kumar/) - 2020-07-14
+[Computer Vision](https://www.linkedin.com/pulse/day-4-computer-vision-amit-sharma/) - 2020-07-14
 
-[Completely Managed PHP Website Development on AWS EKS with Prometheus and Grafana](https://www.linkedin.com/pulse/completely-managed-php-website-development-aws-eks-prometheus-kumar/) - 2020-07-12
+[Simple Linear Regression](https://www.linkedin.com/pulse/day-4-machine-learning-amit-sharma/) - 2020-07-12
 
 </td><td valign="top" width="33%">
 
