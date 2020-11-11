@@ -159,7 +159,7 @@ but also gives you various benefits which can improve the quality of your life. 
 <!-- recent_releases starts -->
  [Covid Symptoms Tracker Project](https://www.linkedin.com/posts/amit-sharma-35439016a_mlops-machinelearning-ai-activity-6723638308745945088-xHex/)
  [Covid Symptoms Tracker](https://github.com/users/amit17133129/projects/4/)
-</td><td valign="top" width="5%"> 
+</td><td valign="top" width="20%"> 
 
 ### Machine Learning
 <!-- blog starts -->
@@ -178,7 +178,7 @@ but also gives you various benefits which can improve the quality of your life. 
 
 [Simple Linear Regression](https://www.linkedin.com/pulse/day-4-machine-learning-amit-sharma/)
 
-</td><td valign="top" width="25%">
+</td><td valign="top" width="50%">
 
 ### Cloud
 <!-- tils starts -->
