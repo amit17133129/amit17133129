@@ -147,7 +147,7 @@ but also gives you various benefits which can improve the quality of your life. 
 
 ### Recent Releases
 <!-- recent_releases starts -->
- [Contributing the Desired amount of storage of Datanode to the Hadoop Cluster](https://www.linkedin.com/posts/hackcoderr_contribute-desired-amount-of-storage-of-datanode-activity-6724916524773195776-6p4M) - 2020-10-22
+ [Contributing the Desired amount of storage of Datanode to the Hadoop Cluster](https://www.linkedin.com/pulse/creating-high-availability-architecture-aws-cli-s3-ebs-amit-sharma
 
 [A Review and Case Study at Machine Learning](https://www.linkedin.com/posts/hackcoderr_a-review-and-case-study-at-machine-learning-activity-6723879115029647360-VH9X) - 2020-10-19
 
