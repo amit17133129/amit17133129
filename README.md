@@ -160,6 +160,7 @@ but also gives you various benefits which can improve the quality of your life. 
 
 ### Machine Learning
 <!-- blog starts -->
+[Machine-Learning-Prediction-Using-Different-Algorithms-in-linear-Classification] (https://github.com/amit17133129/Machine-Learning-Prediction-Using-Different-Algorithms-in-linear-Classification/)
 [COVID-19-image-segmentation-on-chest-Xray-Using-MASK-RCNN.](https://www.linkedin.com/pulse/covid-19-image-segmentation-chest-xray-using-mask-rcnn-amit-sharma/) - 2020-09-02
 
 [Convolutional Neural Network ](https://www.linkedin.com/pulse/mlops-day-24-convolutional-neural-network-amit-sharma/) - 2020-08-28
