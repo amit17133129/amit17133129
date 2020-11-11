@@ -123,7 +123,7 @@ but also gives you various benefits which can improve the quality of your life. 
 <b>
 <table><tr><td valign="top" width="33%">
 
-### DEVOPS
+### [DEVOPS]
 <!-- recent_releases starts -->
  [Creating-High-Availability-Architecture-with-AWS-CLI-CloudFront-S3-EBS](https://www.linkedin.com/pulse/creating-high-availability-architecture-aws-cli-s3-ebs-amit-sharma/)
 
@@ -155,7 +155,7 @@ but also gives you various benefits which can improve the quality of your life. 
 [Covid Symptoms Tracker](https://github.com/users/amit17133129/projects/4/)
 </td><td valign="top" width="30%"> 
 
-### Machine Learning
+### [Machine Learning]
 <!-- blog starts -->
  
 [Machine-Learning-Prediction-Using-Different-Algorithms-in-linear-Classification](https://github.com/amit17133129/Machine-Learning-Prediction-Using-Different-Algorithms-in-linear-Classification/)
@@ -177,16 +177,14 @@ but also gives you various benefits which can improve the quality of your life. 
 
 </td><td valign="top" width="50%">
 
-### Cloud
+### [Cloud]
 <!-- tils starts -->
 
 [Deploy the word-press application on K8S and AWS using Terraform](https://www.linkedin.com/pulse/hybrid-multi-cloud-task-6-deploy-word-press-k8s-aws-using-amit-sharma/) 
 
 [Using-EFS-instead-of-EBS-service-on-the-AWS-as-Create-launch-Application-](https://www.linkedin.com/feed/update/urn:li:activity:6720384729843146752/)
 
-[Launching EC2 Instance on AWS Using Ansible](https://www.linkedin.com/feed/update/urn:li:activity:6720384622833860608/) 
-
-[Deploying Web Server & HAProxy load Balancer on AWS using Ansible](https://github.com/hackcoderr/hackcoderr/blob/main/assets/work%20in%20process.jpg) 
+[Launching EC2 Instance on AWS Using Ansible](https://www.linkedin.com/feed/update/urn:li:activity:6720384622833860608/)
 
 </td></tr></table> </b>
 
