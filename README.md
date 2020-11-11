@@ -18,7 +18,7 @@
  
 [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/amit17133129)
 [![Linkedin Badge]](https://www.linkedin.com/in/amit-sharma-35439016a/) [![Twitter Badge](http://img.shields.io/badge/-@hackcoderr-1ca0f1?style=social&logo=twitter&logoColor=blue&link=https://twitter.com/hackcoderr)](https://twitter.com/hackcoderr) [![GitHub followers](https://img.shields.io/github/followers/hac?label=Follow&style=social)](https://github.com/hackcoderr/?tab=follow)
-[![Instagram Badge](https://img.shields.io/badge/-hackcoderr-blue?style=social&logo=Instagram&link=https://www.instagram.com/the_interstellar_guy/?hl=en/)](https://www.instagram.com/the_interstellar_guy/?hl=en) 
+[![Instagram Badge](https://www.instagram.com/the_interstellar_guy/?hl=en&link=https://www.instagram.com/the_interstellar_guy/?hl=en/)](https://www.instagram.com/the_interstellar_guy/?hl=en) 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=hackcoderr.hackcoderr)
 
 </div>  
