@@ -139,13 +139,13 @@ but also gives you various benefits which can improve the quality of your life. 
 
 [CREATING LOAD BALANCER ON AWS USING ANSIBLE ](https://www.linkedin.com/posts/amit-sharma-35439016a_ansible-task3-creatingabrloadabrbalancerabronabrawsabrusingabransible-activity-6705502102753542144-LbM2/)
 
-[Creating a Animation Application Using Flutter](https://www.linkedin.com/pulse/hadoop-static-partition-lvm-amit-sharma/) - 2020-10-07
+[Creating a Animation Application Using Flutter](https://www.linkedin.com/pulse/hadoop-static-partition-lvm-amit-sharma/)
 
-[LAUNCHING EC2 INSTANCE AND CONFIGURING WEBSERVER IN MANAGED NODE BY DYNAMIC INVENTORY USING ANSIBLE ON AWS ​](https://www.linkedin.com/posts/amit-sharma-35439016a_ansible-task2-devopsengineer-activity-6702545496298266624-c26H/) - 2020-09-22
+[LAUNCHING EC2 INSTANCE AND CONFIGURING WEBSERVER IN MANAGED NODE BY DYNAMIC INVENTORY USING ANSIBLE ON AWS ​](https://www.linkedin.com/posts/amit-sharma-35439016a_ansible-task2-devopsengineer-activity-6702545496298266624-c26H/)
 
-[DOCKER 🐳 INTERGRATION WITH ANSIBLE (A)](https://www.linkedin.com/pulse/docker-intergration-ansible-task-1-amit-sharma/) - 2020-09-16
+[DOCKER 🐳 INTERGRATION WITH ANSIBLE (A)](https://www.linkedin.com/pulse/docker-intergration-ansible-task-1-amit-sharma/)
 
-
+[Using Terraform and Ansible creating K8S Cluster On AWS and launching Prometheus and Grafana in that K8S Cluster.](https://www.linkedin.com/feed/update/urn:li:activity:6702127648476413952/)
 
 
 </td><td valign="top" width="25%"> 
@@ -158,6 +158,7 @@ but also gives you various benefits which can improve the quality of your life. 
  ### MLOPS
 <!-- recent_releases starts -->
  [Covid Symptoms Tracker Project](https://www.linkedin.com/posts/amit-sharma-35439016a_mlops-machinelearning-ai-activity-6723638308745945088-xHex/)
+ 
  [Covid Symptoms Tracker](https://github.com/users/amit17133129/projects/4/)
 </td><td valign="top" width="20%"> 
 
