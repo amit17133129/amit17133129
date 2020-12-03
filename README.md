@@ -78,7 +78,9 @@ As we all know that under <b>engineering</b>, technical skills always provide un
  [![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=Flask&logoColor=ffffff)](https://flask.palletsprojects.com/)
  [![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=Kubernetes&logoColor=ffffff)](https://kubernetes.io/)
  [![Ansible](https://img.shields.io/badge/-ansible-326CE5?style=flat-square&logo=ansible&logoColor=000000)](https://ansible.io/)
-
+<a href="https://dev.to/amit17133129">
+  <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="amitsharma's DEV Profile" height="30" width="30">
+</a>
 
  <!--My Hobbies-->
  
@@ -108,9 +110,7 @@ but also gives you various benefits which can improve the quality of your life. 
  
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=amit17133129&layout=compact&theme=radical" />
 </a>
-<a href="https://dev.to/amit17133129">
-  <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="amitsharma's DEV Profile" height="30" width="30">
-</a>
+
 ###
 
 <b>My GitHub contributions as a Game of Life</b>
