@@ -108,7 +108,9 @@ but also gives you various benefits which can improve the quality of your life. 
  
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=amit17133129&layout=compact&theme=radical" />
 </a>
-
+<a href="https://dev.to/amit17133129">
+  <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="amitsharma's DEV Profile" height="30" width="30">
+</a>
 ###
 
 <b>My GitHub contributions as a Game of Life</b>
