@@ -121,6 +121,7 @@ but also gives you various benefits which can improve the quality of your life. 
 <table><tr><td valign="top" width="33%">
 
 ### [DEVOPS]
+[K8S-Cluster-On-AWS](https://github.com/amit17133129/K8S-Cluster-On-AWS)
 <!-- recent_releases starts -->
 [Deploy the word-press application on K8S and AWS using Terraform](https://www.linkedin.com/pulse/hybrid-multi-cloud-task-6-deploy-word-press-k8s-aws-using-amit-sharma/)
 
