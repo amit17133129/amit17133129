@@ -122,8 +122,12 @@ but also gives you various benefits which can improve the quality of your life. 
 <table><tr><td valign="top" width="33%">
 
 ### [DEVOPS]
-[K8S-Cluster-On-AWS](https://github.com/amit17133129/K8S-Cluster-On-AWS)
 <!-- recent_releases starts -->
+
+[Launching-A-WordPress-Application-With-MYSQL-Database-in-K8S-Cluster-On-AWS-Using-Ansible-](https://github.com/amit17133129/Launching-A-WordPress-Application-With-MYSQL-Database-in-K8S-Cluster-On-AWS-Using-Ansible-)
+
+[K8S-Cluster-On-AWS](https://github.com/amit17133129/K8S-Cluster-On-AWS)
+
 [Deploy the word-press application on K8S and AWS using Terraform](https://www.linkedin.com/pulse/hybrid-multi-cloud-task-6-deploy-word-press-k8s-aws-using-amit-sharma/)
 
 [CREATING LOAD BALANCER ON AWS USING ANSIBLE ](https://www.linkedin.com/posts/amit-sharma-35439016a_ansible-task3-creatingabrloadabrbalancerabronabrawsabrusingabransible-activity-6705502102753542144-LbM2/)
