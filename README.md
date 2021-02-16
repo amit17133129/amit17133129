@@ -1,8 +1,10 @@
 ## Hi {𝚌𝚘𝚍𝚎𝚛𝚜}! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I am Amit 👨‍🎓
 
 <!--Header-->
-  <img align="left" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="414" height="320" />
-  
+
+  <p align="center">
+  <img src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="414" height="320" />
+</p>
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
 ##
