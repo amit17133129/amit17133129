@@ -77,7 +77,9 @@ As we all know that under <b>engineering</b>, technical skills always provide un
 <a href="https://dev.to/amit17133129">
   <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="amitsharma's DEV Profile" height="30" width="30">
 </a>
-![MySkills](https://github.com/amit17133129/amit17133129/blob/main/MySkills.gif?raw=true)
+<p align="center">
+  <img src="https://github.com/amit17133129/amit17133129/blob/main/MySkills.gif?raw=true"/>
+</p>
  <!--My Hobbies-->
  
  
