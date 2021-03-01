@@ -160,7 +160,9 @@ but also gives you various benefits which can improve the quality of your life. 
 
 ### [Machine Learning]
 <!-- blog starts -->
- 
+
+[An Explaination to ANN](https://github.com/amit17133129/An-Explanation-To-Artificial-Neural-Network)
+
 [Machine-Learning-Prediction-Using-Different-Algorithms-in-linear-Classification](https://github.com/amit17133129/Machine-Learning-Prediction-Using-Different-Algorithms-in-linear-Classification/)
 [COVID-19-image-segmentation-on-chest-Xray-Using-MASK-RCNN.](https://www.linkedin.com/pulse/covid-19-image-segmentation-chest-xray-using-mask-rcnn-amit-sharma/)
 
