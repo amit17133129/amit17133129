@@ -3,7 +3,7 @@
 <!--Header-->
 
 <p align="center">
-  <img src="https://img.etimg.com/thumb/msid-84146056,width-1200,height-900,imgsize-638053,resizemode-8,quality-100/20210706_developer-economy_01.jpg" width="414" height="320" />
+  <img src="https://www.blazeclan.com/wp-content/uploads/2021/08/MLOps-2.jpg" width="1000" height="450" />
 </p>
 
 ## Connect Me At Below
