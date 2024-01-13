@@ -195,6 +195,9 @@ but also gives you various benefits which can improve the quality of your life. 
 
 </td></tr></table> </b>
 
+
+![Amit's GitHub stats](https://github-readme-stats.vercel.app/api?username=amit17133129&show_icons=true&theme=radical)
+
 <!--footer-->
 
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="180">
