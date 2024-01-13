@@ -38,6 +38,10 @@
  I m <b> Amit Sharma</b>, a pursuing <b>Computer Science Engineer</b> a passionate self-taught devops engineer and a freelance devops engineer from india. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build. I always passionate about understanding the core concepts behind different popular Technological Fields. 
 
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=amit17133129)](https://github.com/ryo-ma/github-profile-trophy)
+
+
+
 </div>
 
 <!--technical skill-->
